@@ -1,9 +1,11 @@
 ### Hi there 👋 
-I am Ricardo Canuto, developer Front-end currently learning Java and React and creating some new projects using:
+I am Ricardo Canuto, Front-end developer currently learning React and working on some projects using the tecnologies:
 <br>
 <br>
 - <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 - <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+And also improving my skills:
+- <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br>
 <br>
 You can conect with me:
