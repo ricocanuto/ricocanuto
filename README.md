@@ -38,17 +38,13 @@ I'm Ricardo Canuto, passionate about technology and sports, a Front-end develope
 
 ### ⚙️ GitHub Analytics
 
-<table>
-![Contador de visitas](https://komarev.com/ghpvc/?username=ricocanuto&color=blue)
-</table>
-
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/ricocanuto/count.svg"
+    src="https://komarev.com/ghpvc/?username=ricocanuto&color=blue"
     alt="Número de visitantes no perfil"
   />
 </p>
