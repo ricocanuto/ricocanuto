@@ -39,16 +39,7 @@ I'm Ricardo Canuto, passionate about technology and sports, a Front-end develope
 ### ⚙️ GitHub Analytics
 
 <table>
- 
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ricocanuto&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-
+![Contador de visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)
 </table>
 
 <div align="center">
